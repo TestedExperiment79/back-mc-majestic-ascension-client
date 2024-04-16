@@ -2,7 +2,7 @@
 
 ## Directory:
 
-* C:\Users\%username%\AppData\Roaming\.minecraft\versions\MajesticAscension
+* C:\Users\\%username%\AppData\Roaming\.minecraft\versions\MajesticAscension
 
 ## Version:
 
